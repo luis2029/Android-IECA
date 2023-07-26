@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android IECA</string>
+    <string name="new_user">No tienes cuenta? <b>Registrate</b></string>
+
+    <string-array name="drawer_items">
+        <item>Perfil</item>
+        <item>Resumen</item>
+        <item>Reglamento</item>
+        <item>Temario</item>
+        <item>Sesiones</item>
+
+        <!-- Agrega los demás items aquí -->
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- drawer_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_perfil"
+        android:icon="@drawable/ic_user_black"
+        android:title="Perfil"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_resumen"
+        android:icon="@drawable/ic_user_black"
+        android:title="Resumen"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_reglamento"
+        android:icon="@drawable/ic_user_black"
+        android:title="Reglamento"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_temario"
+        android:icon="@drawable/ic_user_black"
+        android:title="Temario"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_Sesiones"
+        android:icon="@drawable/ic_user_black"
+        android:title="Sesiones"
+        app:showAsAction="never"/>
+
+</menu>
